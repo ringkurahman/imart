@@ -1,5 +1,29 @@
 const products = [
   {
+    name: 'Celltronics Micro USB Cable',
+    image: '/images/usb-cable.jpg',
+    description:
+      'You are covered by premium quality micro usb cable 12-month replacement warranty friendly and timely customer service heavy duty durable charging cable nylon braided jacket shields internal copper wires resists kinks and prevents damage by friction, also provides a stylish, dirty-proof look.',
+    brand: 'BLU',
+    category: 'Electronics',
+    price: 9.99,
+    countInStock: 6,
+    rating: 5,
+    numReviews: 9,
+  },
+  {
+    name: 'NeuTab 7 inch Quad Core Android 5.1 Lollipop Tablet PC',
+    image: '/images/neu-tab-7.jpg',
+    description:
+      'Enhanced Performance: 2017 newest N7s Pro, fast and responsive quad-core processor plus 1 GB DDR3 RAM, ensures quick app launches, ultra-smooth games and videos. Android 5.1 Lollipop enables quicker multitasking without sacrificing its performance.',
+    brand: 'Neu Tab',
+    category: 'Electronics',
+    price: 104.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 7,
+  },
+  {
     name: 'Airpods Wireless Bluetooth Headphones',
     image: '/images/airpods.jpg',
     description:
@@ -70,6 +94,30 @@ const products = [
     countInStock: 0,
     rating: 4,
     numReviews: 12,
+  },
+  {
+    name: 'RCA M1 4.0 Unlocked Cell Phone, Dual SIM',
+    image: '/images/rca-m1-phone.jpg',
+    description:
+      'New packages includes: phone device, charger, headphones, USB cord, battery, user manual, screen protector (attached on the screen) and quick start guide. Recommend carriers in South America: Claro, Digicel, Lime, Movilnet, Telcel, Tigo, Tim and Vivo',
+    brand: 'RCA',
+    category: 'Electronics',
+    price: 39.99,
+    countInStock: 5,
+    rating: 4,
+    numReviews: 3,
+  },
+  {
+    name: 'BLU R1 HD - 16 GB - Black - Prime Exclusive',
+    image: '/images/blue-r1-hd.jpg',
+    description:
+      'New packages includes: phone device, charger, headphones, USB cord, battery, user manual, screen protector (attached on the screen) and quick start guide. Recommend carriers in South America: Claro, Digicel, Lime, Movilnet, Telcel, Tigo, Tim and Vivo',
+    brand: 'BLU',
+    category: 'Electronics',
+    price: 45.99,
+    countInStock: 3,
+    rating: 4.5,
+    numReviews: 5,
   },
 ]
 
