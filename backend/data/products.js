@@ -12,7 +12,7 @@ const products = [
     numReviews: 9,
   },
   {
-    name: 'NeuTab 7 inch Quad Core Android 5.1 Lollipop Tablet PC',
+    name: 'NeuTab 7 inch Quad Core Android 5.1 Tablet PC',
     image: '/images/neu-tab-7.jpg',
     description:
       'Enhanced Performance: 2017 newest N7s Pro, fast and responsive quad-core processor plus 1 GB DDR3 RAM, ensures quick app launches, ultra-smooth games and videos. Android 5.1 Lollipop enables quicker multitasking without sacrificing its performance.',
