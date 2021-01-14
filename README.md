@@ -5,6 +5,6 @@ Frontend: React, React-router-dom, Redux, React-redux, Axios, Redux-devtools-ext
 
 Backend: Express js, Express-async-handler, JWT, Mongoose, Dotenv, bcryptjs, Morgan, Multer, Nodemon, Concurrently, Mongodb and Heroku.
 
-### Author: Ringku Rahman
-[Live Site URL](https://imartapp.herokuapp.com/)
+
+### Live Site: [URL](https://imartapp.herokuapp.com/)
 
