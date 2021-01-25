@@ -5,7 +5,7 @@
 React, React-router-dom, Redux, React-redux, Axios, Redux-devtools-extension, Redux-logger, Redux-thunk, React-bootstrap, React-router-bootstrap, React-helmet, React-paypal-button, Google fonts and more.
 
 ## Backend: 
-Express js, Express-async-handler, JWT, Mongoose, Dotenv, bcryptjs, Morgan, Multer, Nodemon, Concurrently, Mongodb and Heroku.
+Express js, Express-async-handler, JWT, Mongoose, Dotenv, bcryptjs, Morgan, Multer, Nodemon, Concurrently, Mongodb and Heroku
 
 ## Install Dependencies
 ```
